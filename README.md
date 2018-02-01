@@ -1,0 +1,2 @@
+# GMgPY
+GeomagnetismoPy
